@@ -1,2 +1,2 @@
-# Juego damas
- juego de las damas
+# Juego damas EN CONSTRUCCION !!
+ juego de las damas EN CONSTRUCCION !!
